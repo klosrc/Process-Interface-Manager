@@ -1,8 +1,5 @@
 /home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/exceptions/ScriptExecutionException.java
+/home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/utils/UtilsHelper.java
 /home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/factory/ScriptManagerGenerator.java
-/home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/arguments/ScriptOption.java
+/home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/factory/CommandConstants.java
 /home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/ScriptExecutor.java
-/home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/arguments/ScriptArgument.java
-/home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/variables/ScriptVariable.java
-/home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/arguments/ScriptParameter.java
-/home/klosrc/Documents/2019/Personal/Projects/Workspaces/eclipse-workspace/script-manager/src/main/java/com/acta/pim/scriptmanager/instances/ScriptManager.java

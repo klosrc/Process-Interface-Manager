@@ -6,4 +6,8 @@ public class ScriptExecutionException extends Exception {
 		super(new StringBuilder("").append("[CODE: ").append(errorCode).append("]: ").append(errorMessage).toString());
 	}
 	
+	public ScriptExecutionException(String errorCode, String errorMessage, Throwable e) {
+		super(new StringBuilder("").append("[CODE: ").append(errorCode).append("]: ").append(errorMessage).toString(), e);
+	}
+	
 }

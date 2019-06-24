@@ -9,10 +9,12 @@ public interface CommandConstants {
 	static String REQUEST_LABEL_SEQUENCE = "sequence";
 	static String REQUEST_LABEL_EVAL_EXPRESSION = "evalExpression";
 	static String REQUEST_LABEL_CHAIN = "chain";
+	static String REQUEST_LABEL_TYPE = "type";
 	
 	/* JSON Response expected labels */
 	static String RESPONSE_LABEL_SEQUENCE = "sequence";
-	static String RESPONSE_LABEL_RESULT = "chain";
+	static String RESPONSE_LABEL_RESULT = "result";
+	static String RESPONSE_LABEL_ERROR_RESULT = "errorResult";
 	static String RESPONSE_LABEL_ERROR_CODE = "errorCode";
 	static String RESPONSE_LABEL_ERROR_MESSAGE = "errorMessage";
 	static String RESPONSE_LABEL_EXCEPTION = "exception";
